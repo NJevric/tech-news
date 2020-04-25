@@ -1,0 +1,23 @@
+.adminPanel{
+    height: 100vh;
+}
+.trenutnaPozicija li{
+    list-style: none;
+}
+.slikaPostTabela{
+    width:100px;
+}
+.tekstKomentar{
+    min-width:250px;
+}
+.slikaUserTabela{
+    width:50px;
+}
+.tabele{
+    height:600px;
+}
+@media screen and (max-width: 400px) {
+    .tabele{
+        height:400px;
+    }
+}
