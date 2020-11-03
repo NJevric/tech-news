@@ -5,9 +5,8 @@ Blog Website with register/login with admin dashboard and commenting posts
 <br/>
 <b>Date</b> : april 2020
 ## Technologies used
-* HTML
+* HTML/XML
 * CSS
-* XML
 * PHP
 * Javascript
 * MySQL
